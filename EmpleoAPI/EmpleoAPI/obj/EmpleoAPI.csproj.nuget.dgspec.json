@@ -1,0 +1,311 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Proyectos\\EMPLEO_APP\\Repositorios\\EmpleoAPI\\EmpleoAPI\\EmpleoAPI.csproj": {}
+  },
+  "projects": {
+    "D:\\Proyectos\\EMPLEO_APP\\Repositorios\\EmpleoAPI\\EmpleoAPI.Common\\EmpleoAPI.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Proyectos\\EMPLEO_APP\\Repositorios\\EmpleoAPI\\EmpleoAPI.Common\\EmpleoAPI.Common.csproj",
+        "projectName": "EmpleoAPI.Common",
+        "projectPath": "D:\\Proyectos\\EMPLEO_APP\\Repositorios\\EmpleoAPI\\EmpleoAPI.Common\\EmpleoAPI.Common.csproj",
+        "packagesPath": "C:\\Users\\santi\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyectos\\EMPLEO_APP\\Repositorios\\EmpleoAPI\\EmpleoAPI.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\santi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Proyectos\\EMPLEO_APP\\Repositorios\\EmpleoAPI\\EmpleoAPI.DataAccess\\EmpleoAPI.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Proyectos\\EMPLEO_APP\\Repositorios\\EmpleoAPI\\EmpleoAPI.DataAccess\\EmpleoAPI.DataAccess.csproj",
+        "projectName": "EmpleoAPI.DataAccess",
+        "projectPath": "D:\\Proyectos\\EMPLEO_APP\\Repositorios\\EmpleoAPI\\EmpleoAPI.DataAccess\\EmpleoAPI.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\santi\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyectos\\EMPLEO_APP\\Repositorios\\EmpleoAPI\\EmpleoAPI.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\santi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Proyectos\\EMPLEO_APP\\Repositorios\\EmpleoAPI\\EmpleoAPI.Common\\EmpleoAPI.Common.csproj": {
+                "projectPath": "D:\\Proyectos\\EMPLEO_APP\\Repositorios\\EmpleoAPI\\EmpleoAPI.Common\\EmpleoAPI.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Proyectos\\EMPLEO_APP\\Repositorios\\EmpleoAPI\\EmpleoAPI.Services\\EmpleoAPI.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Proyectos\\EMPLEO_APP\\Repositorios\\EmpleoAPI\\EmpleoAPI.Services\\EmpleoAPI.Services.csproj",
+        "projectName": "EmpleoAPI.Services",
+        "projectPath": "D:\\Proyectos\\EMPLEO_APP\\Repositorios\\EmpleoAPI\\EmpleoAPI.Services\\EmpleoAPI.Services.csproj",
+        "packagesPath": "C:\\Users\\santi\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyectos\\EMPLEO_APP\\Repositorios\\EmpleoAPI\\EmpleoAPI.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\santi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Proyectos\\EMPLEO_APP\\Repositorios\\EmpleoAPI\\EmpleoAPI.Common\\EmpleoAPI.Common.csproj": {
+                "projectPath": "D:\\Proyectos\\EMPLEO_APP\\Repositorios\\EmpleoAPI\\EmpleoAPI.Common\\EmpleoAPI.Common.csproj"
+              },
+              "D:\\Proyectos\\EMPLEO_APP\\Repositorios\\EmpleoAPI\\EmpleoAPI.DataAccess\\EmpleoAPI.DataAccess.csproj": {
+                "projectPath": "D:\\Proyectos\\EMPLEO_APP\\Repositorios\\EmpleoAPI\\EmpleoAPI.DataAccess\\EmpleoAPI.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Proyectos\\EMPLEO_APP\\Repositorios\\EmpleoAPI\\EmpleoAPI\\EmpleoAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Proyectos\\EMPLEO_APP\\Repositorios\\EmpleoAPI\\EmpleoAPI\\EmpleoAPI.csproj",
+        "projectName": "EmpleoAPI",
+        "projectPath": "D:\\Proyectos\\EMPLEO_APP\\Repositorios\\EmpleoAPI\\EmpleoAPI\\EmpleoAPI.csproj",
+        "packagesPath": "C:\\Users\\santi\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyectos\\EMPLEO_APP\\Repositorios\\EmpleoAPI\\EmpleoAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\santi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Proyectos\\EMPLEO_APP\\Repositorios\\EmpleoAPI\\EmpleoAPI.DataAccess\\EmpleoAPI.DataAccess.csproj": {
+                "projectPath": "D:\\Proyectos\\EMPLEO_APP\\Repositorios\\EmpleoAPI\\EmpleoAPI.DataAccess\\EmpleoAPI.DataAccess.csproj"
+              },
+              "D:\\Proyectos\\EMPLEO_APP\\Repositorios\\EmpleoAPI\\EmpleoAPI.Services\\EmpleoAPI.Services.csproj": {
+                "projectPath": "D:\\Proyectos\\EMPLEO_APP\\Repositorios\\EmpleoAPI\\EmpleoAPI.Services\\EmpleoAPI.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

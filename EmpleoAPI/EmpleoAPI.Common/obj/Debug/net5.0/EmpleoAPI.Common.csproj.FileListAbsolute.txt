@@ -1,0 +1,12 @@
+D:\Proyectos\EMPLEO_APP\Repositorios\EmpleoAPI\EmpleoAPI.Common\bin\Debug\net5.0\EmpleoAPI.Common.deps.json
+D:\Proyectos\EMPLEO_APP\Repositorios\EmpleoAPI\EmpleoAPI.Common\bin\Debug\net5.0\EmpleoAPI.Common.dll
+D:\Proyectos\EMPLEO_APP\Repositorios\EmpleoAPI\EmpleoAPI.Common\bin\Debug\net5.0\EmpleoAPI.Common.pdb
+D:\Proyectos\EMPLEO_APP\Repositorios\EmpleoAPI\EmpleoAPI.Common\obj\Debug\net5.0\EmpleoAPI.Common.csproj.AssemblyReference.cache
+D:\Proyectos\EMPLEO_APP\Repositorios\EmpleoAPI\EmpleoAPI.Common\obj\Debug\net5.0\EmpleoAPI.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\EMPLEO_APP\Repositorios\EmpleoAPI\EmpleoAPI.Common\obj\Debug\net5.0\EmpleoAPI.Common.AssemblyInfoInputs.cache
+D:\Proyectos\EMPLEO_APP\Repositorios\EmpleoAPI\EmpleoAPI.Common\obj\Debug\net5.0\EmpleoAPI.Common.AssemblyInfo.cs
+D:\Proyectos\EMPLEO_APP\Repositorios\EmpleoAPI\EmpleoAPI.Common\obj\Debug\net5.0\EmpleoAPI.Common.csproj.CoreCompileInputs.cache
+D:\Proyectos\EMPLEO_APP\Repositorios\EmpleoAPI\EmpleoAPI.Common\obj\Debug\net5.0\EmpleoAPI.Common.dll
+D:\Proyectos\EMPLEO_APP\Repositorios\EmpleoAPI\EmpleoAPI.Common\obj\Debug\net5.0\refint\EmpleoAPI.Common.dll
+D:\Proyectos\EMPLEO_APP\Repositorios\EmpleoAPI\EmpleoAPI.Common\obj\Debug\net5.0\EmpleoAPI.Common.pdb
+D:\Proyectos\EMPLEO_APP\Repositorios\EmpleoAPI\EmpleoAPI.Common\obj\Debug\net5.0\ref\EmpleoAPI.Common.dll
